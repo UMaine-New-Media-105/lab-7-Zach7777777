@@ -2,3 +2,8 @@
 
 Question 1: https://editor.p5js.org/zachary.w.smith/sketches/uV7sItj3s 
 
+Desctription: Made a function that draws circles diagonaly in both directions using loops 
+
+Question 2 : https://editor.p5js.org/zachary.w.smith/sketches/oEkUbWmVJ
+
+Description: Used a loop to draw 5 circles along the X axis but I couldn't seem to get the Y loop working during lab time 
